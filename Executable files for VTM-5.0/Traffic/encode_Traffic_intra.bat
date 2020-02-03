@@ -1,0 +1,1 @@
+EncoderApp.exe -c encoder_intra_vtm.cfg -c Traffic.cfg -q 27>> log_Traffic_Q27_100_FRM_TC_CU_level_MSE_PSNR_rate_VTM.txt

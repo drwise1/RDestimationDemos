@@ -1,0 +1,1 @@
+EncoderApp.exe -c encoder_intra_vtm.cfg -c BlowingBubbles.cfg -q 27>> log_BlowingBubbles_Q27_100_FRM_TC_CU_level_MSE_PSNR_rate_VTM.txt

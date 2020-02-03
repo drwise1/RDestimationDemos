@@ -1,0 +1,1 @@
+EncoderApp.exe -c encoder_intra_vtm.cfg -c Cactus.cfg -q 27>> log_Cactus_Q27_100_FRM_TC_CU_level_MSE_PSNR_rate_VTM.txt
