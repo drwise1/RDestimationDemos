@@ -7,6 +7,6 @@ RD estimation Demos are presented
    'CU64x8 or CU8x64','CU32x16 or CU16x32', 'CU32x8 or CU8x32','CU32x4 or CU4x32','CU16x8 or CU8x16','CU16x4 or CU4x16','CU8x4 or CU4x8', 'single PDF'
 
 2. Using the exe files in "Executable files for Matlab" and the above text data files after encoding VTM-5.0,
-   you can obtain the RD estimation results for each sequences.
+   you can obtain the RD estimation results for each sequences. Make sure that the '*.exe' file and corresponding '*.txt' data files are located in the same folder.
    
 3. Yuv files needed to encode the VTM-5.0 are not included in this folder.
